@@ -1,0 +1,62 @@
+.doneStyle{
+    text-decoration: line-through;
+}
+
+
+table {
+    border-radius: 2.5%;
+    box-shadow: 0 1px 10px black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* font-family: cursive; */
+    color:black;
+    font-size: larger;
+    border-spacing: 50em;
+}
+
+.title{  
+    text-align: center;
+    font-weight: bold;
+    font-family: "Brush Script MT", cursive;
+    font-size:100px;
+}
+
+tr{
+    text-align:center;
+}
+
+.delete{
+    border-radius: 17%;
+    color:rgb(255, 255, 255);
+}
+
+.success{
+    border-radius: 17%;
+    color:rgb(255, 255, 255);
+}
+.container{
+    top: 15px;
+    margin: 8%;
+    border: 1px solid black;
+    padding: 20px;
+    width: 60vw !important;
+    border-radius: 5px;
+    background-color: rgba(250, 235, 215, 0.144);
+    box-shadow: 0 2px 20px black;
+
+}
+
+.addNewTask{
+    text-align: center;
+}
+.taskTitle{
+    font-family: "Calisto MT", "Bookman Old Style", Bookman, "Goudy Old Style", Garamond, "Hoefler Text", "Bitstream Charter", Georgia, serif;
+}
+
+input{
+    background-color: rgba(127, 255, 212, 0.212) !important;
+}
+
+.logo5 {
+    height: 1.3em;
+    color: black;
+}
